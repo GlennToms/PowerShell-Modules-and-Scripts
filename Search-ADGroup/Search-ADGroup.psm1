@@ -23,7 +23,7 @@ function Search-ADGroup {
         Searches for groups with exact names "VPN" and "HOME".
     .NOTES
         Created: 2023/02/23
-        Email: glenn.toms@agilisys.co.uk
+        
         Team: Information Security
     #>
     [CmdletBinding()]

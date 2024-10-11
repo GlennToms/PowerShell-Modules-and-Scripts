@@ -45,7 +45,7 @@ Microsoft.PowerShell.Commands.MatchInfo
 
 .NOTES
 Created: 2023/04/11
-Email: glenn.toms@agilisys.co.uk
+
 Team: Information Security
 #>
     [CmdletBinding()]

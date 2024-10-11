@@ -19,7 +19,7 @@ function Search-ADComputer {
         A list of Active Directory computer objects that match the search criteria.
     .NOTES
         Created: 2023/02/23
-        Email: glenn.toms@agilisys.co.uk
+        
         Team: Information Security
     #>
     [CmdletBinding()]

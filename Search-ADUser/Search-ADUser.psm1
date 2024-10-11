@@ -25,7 +25,7 @@ function Search-ADUser {
         Searches for users with names that contain "John" or "Doe", and then filters the results to only include users with "Smith" in their names.
     .NOTES
         Created: 2023/02/23
-        Email: glenn.toms@agilisys.co.uk
+        
         Team: Information Security
     #>
     [CmdletBinding()]

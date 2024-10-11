@@ -21,7 +21,7 @@ function Search-ADGroupMembersOf {
         This example searches for the group named "MyGroup" in domains "DomainA" and "DomainB" using the specified credential.
     .NOTES
         Created: 2023/10/01
-        Email: glenn.toms@agilisys.co.uk
+        
         Team: Information Security
     #>
 
